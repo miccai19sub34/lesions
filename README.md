@@ -10,7 +10,7 @@ Each example comprises:
 - An RGB image (.jpg) with shape WxH
 - A stacked segmentation (.npy) with shape WxHxC, where C is the number of segmnetation classes
   
-Labels for the pleurisy score Task are available in the ```raw_labels.txt``` file.
+Labels for the pleurisy score task are available in the ```raw_labels.txt``` file.
 Examples from the 4 classes are reported:
 
 <table style="width:100%">
