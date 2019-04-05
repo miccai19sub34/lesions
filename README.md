@@ -4,6 +4,14 @@ Code and Dataset
 Still to come
 
 # Dataset
+## Annotation Process
+The experts followed a layer-wise annotation strategy. Thus, each anatomical structure is fully annotated even when covered by others:
+<th>
+  <p align="center">
+    <img src="./imgs/annot.gif" alt="Example" width="75%" height="75%">
+    <br>Layers of the annotation process.
+
+
 ## Test Set
 Test set with 200 examples (50 for each class) is available with no restrictions [HERE]()
 Each example comprises:
@@ -50,4 +58,4 @@ Examples from the 4 classes are reported:
 
 
 ## Train Set
-Train set is available upon request.
+Train set is available for research purposes only upon request. Request should be submitted by an associate or full professor.
