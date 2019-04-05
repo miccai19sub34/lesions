@@ -10,20 +10,20 @@ Each example comprises:
 - An RGB image (.jpg) with shape WxH
 - A stacked segmentation (.npy) with shape WxHxC, where C is the number of segmnetation classes
   
-Labels for the pleurisy score Task are available in the ```raw_labels.txt``` file.
+Labels for the pleurisy score task are available in the ```raw_labels.txt``` file.
 Examples from the 4 classes are reported:
 
 <table style="width:100%">
     <tr>
         <th>
             <p align="center">
-            <img src="./img/0.jpg" alt="Example" width="75%" height="75%">
+            <img src="./imgs/0.jpg" alt="Example" width="75%" height="75%">
             <br>Class 0 example.
             </p>
         </th>
         <th>
             <p align="center">
-            <img src="./img/1.jpg" alt="Example" width="75%" height="75%">
+            <img src="./imgs/1.jpg" alt="Example" width="75%" height="75%">
             <br>Class 1 example.
             </p>
         </th>
@@ -34,13 +34,13 @@ Examples from the 4 classes are reported:
     <tr>
         <th>
             <p align="center">
-            <img src="./img/2.jpg" alt="Example" width="75%" height="75%">
+            <img src="./imgs/2.jpg" alt="Example" width="75%" height="75%">
             <br>Class 2 example.
             </p>
         </th>
         <th>
             <p align="center">
-            <img src="./img/3.jpg" alt="Example" width="75%" height="75%">
+            <img src="./imgs/3.jpg" alt="Example" width="75%" height="75%">
             <br>Class 3 example.
             </p>
         </th>
