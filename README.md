@@ -1,10 +1,12 @@
 # Segmentation Guided Scoring of Pathological Lesions in Swines Through Convolutional Neural Networks (ID: 34)
-Code and Dataset
-# Code
-Still to come
 
-# Dataset
-## Annotation Process
+## Code
+Our UNet-based model can be found in```code/model.py```. 
+
+Our rule-based classifier is available as a single function in ```code/get_lesion_score_from_segmentation```
+
+## Dataset
+### Annotation Process
 The experts followed a layer-wise annotation strategy. Thus, each anatomical structure is fully annotated even when covered by others:
 <th>
   <p align="center">
@@ -12,7 +14,7 @@ The experts followed a layer-wise annotation strategy. Thus, each anatomical str
     <br>Layers of the annotation process.
 
 
-## Test Set
+### Test Set
 Test set with 200 examples (50 for each class) is available with no restrictions [HERE]()
 Each example comprises:
 - An RGB image (.jpg) with shape WxH
@@ -57,5 +59,6 @@ Examples from the 4 classes are reported:
 
 
 
-## Train Set
-Train set is available for research purposes only upon request. Request should be submitted by an associate or full professor.
+### Train Set
+Train set is available for research purposes only upon request. Request must be submitted by an associate or full professor.
+If you're a private company and you want to get in touch with us, please refers to the article emails 
