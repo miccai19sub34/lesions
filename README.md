@@ -3,7 +3,7 @@
 ## Code
 Our UNet-based model can be found in```code/model.py```. 
 
-Our rule-based classifier is available as a single function in ```code/get_lesion_score_from_segmentation```
+Our rule-based classifier is available as a single function in ```code/get_lesion_score_from_segmentation.py```
 
 ## Dataset
 ### Annotation Process
