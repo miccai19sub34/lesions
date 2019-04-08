@@ -1,7 +1,7 @@
 # Segmentation Guided Scoring of Pathological Lesions in Swines Through Convolutional Neural Networks (ID: 34)
 
 ## Code
-Our UNet-based model can be found in```code/model.py```. 
+Our UNet-based model can be found in ```code/model.py```. 
 
 Our rule-based classifier is available as a single function in ```code/get_lesion_score_from_segmentation.py```
 
@@ -14,13 +14,13 @@ The experts followed a layer-wise annotation strategy. Thus, each anatomical str
     <br>Layers of the annotation process.
 
 
-### Test Set
+### Pleural Lesion Scoring Test Set
 Test set with 200 examples (50 for each class) is available with no restrictions [HERE]()
 Each example comprises:
-- An RGB image (.jpg) with shape WxH
-- A stacked segmentation (.npy) with shape WxHxC, where C is the number of segmnetation classes
+- An RGB image (.jpg) with resolution ```1040x780``` pixels;
+- A stacked segmentation (.npy) with shape ```1040x780xC```, where C is the number of segmentation classes
   
-Labels for the pleurisy score task are available in the ```raw_labels.txt``` file.
+Associated labels for the pleurisy score task are available in the ```raw_labels.txt``` file.
 Examples from the 4 classes are reported:
 
 <table style="width:100%">
