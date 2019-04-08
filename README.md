@@ -10,7 +10,7 @@ Our rule-based classifier is available as a single function in ```code/get_lesio
 The experts followed a layer-wise annotation strategy. Thus, each anatomical structure is fully annotated even when covered by others:
 <th>
   <p align="center">
-    <img src="./imgs/annot.gif" alt="Example" width="65%" height="65%">
+    <img src="./imgs/annot.gif" alt="Example" width="50%" height="50%">
     <br>Layers of the annotation process.
 
 
