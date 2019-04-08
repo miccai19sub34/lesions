@@ -59,6 +59,11 @@ Examples from the 4 classes are reported:
 
 
 
-### Train Set
-Train set is available for research purposes only upon request. Request must be submitted by an associate or full professor.
-If you're a private company and you want to get in touch with us, please refers to the article emails 
+### Train Set and Pre-Trained Weights
+Experts put a lot of their valuable time in the annotation process without direct retribution. As such, we must keep track of the dataset's uses by the community.
+
+##### Research Purposes
+Please fill and submit the research purpose statement form. Requests must be submitted by researchers only.
+
+##### Economic Purposes
+If you're a private company and you want to get in touch with us, please refers to the article authors' emails. 
