@@ -15,7 +15,7 @@ The experts followed a layer-wise annotation strategy. Thus, each anatomical str
 
 
 ### Pleural Lesion Scoring Test Set
-Test set with 200 examples (50 for each class) is available with no restrictions [HERE]()
+Test set with 200 examples (50 for each class) is available with no restrictions [HERE](https://drive.google.com/open?id=1TvIU5NpMrJdyDrmNJtXF9i6uCS6f7MZ2)
 Each example comprises:
 - An RGB image (.jpg) with resolution ```1040x780``` pixels;
 - A stacked segmentation (.npy) with shape ```1040x780xC```, where C is the number of segmentation classes
