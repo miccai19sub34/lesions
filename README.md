@@ -28,13 +28,13 @@ Examples from the 4 classes are reported:
         <th>
             <p align="center">
             <img src="./imgs/0.jpg" alt="Example" width="75%" height="75%">
-            <br>Class 0 example.
+            <br>Class i example (Healthy).
             </p>
         </th>
         <th>
             <p align="center">
             <img src="./imgs/1.jpg" alt="Example" width="75%" height="75%">
-            <br>Class 1 example.
+            <br>Class ii example (Lesion on Chest Wall 1).
             </p>
         </th>
      </tr>
@@ -45,13 +45,13 @@ Examples from the 4 classes are reported:
         <th>
             <p align="center">
             <img src="./imgs/2.jpg" alt="Example" width="75%" height="75%">
-            <br>Class 2 example.
+            <br>Class iii example (Lesion on Chest Wall 2).
             </p>
         </th>
         <th>
             <p align="center">
             <img src="./imgs/3.jpg" alt="Example" width="75%" height="75%">
-            <br>Class 3 example.
+            <br>Class iv example (Lesion on both Chest Walls).
             </p>
         </th>
      </tr>
